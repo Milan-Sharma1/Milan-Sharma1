@@ -4,7 +4,11 @@
 
 <p align="left">
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently Leveling up my **full-stack development skills**
+
+- 🔧 Diving into **DevOps tools and practices**
+
+- 🧠 Solving **DSA problems** and expanding my knowledge
 
 - 👨‍💻 View my portfolio at <a href="https://milansharma.me/" target="blank">**milansharma.me**</a>
 
@@ -70,7 +74,6 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
 </div>
-
 
 ###
 
