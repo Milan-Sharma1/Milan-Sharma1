@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, Python, C++ or React.js/Next.js/Node/Express**
 
-- 📫 How to reach me: [hello@milansharma.me](mailto:hello@milansharma.tech)
+- 📫 How to reach me: [hello@milansharma.tech](mailto:hello@milansharma.tech)
 </p>
 
 ###
