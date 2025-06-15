@@ -4,17 +4,17 @@
 
 <p align="left">
 
-- 🌱 I’m currently building <a href="https://debugdesk.milansharma.me/" target="blank">**debugdesk.milansharma.me**</a>
+- 🌱 I’m currently building <a href="https://debugdesk.milansharma.tech/" target="blank">**debugdesk.milansharma.tech**</a>
 
 - 🔧 Diving into **DevOps tools and practices**
 
 - 🧠 Solving **DSA problems** and expanding my knowledge
 
-- 👨‍💻 View my portfolio at <a href="https://milansharma.me/" target="blank">**milansharma.me**</a>
+- 👨‍💻 View my portfolio at <a href="https://milansharma.tech/" target="blank">**milansharma.tech**</a>
 
 - 💬 Ask me about **JavaScript, TypeScript, Python, C++ or React.js/Next.js/Node/Express**
 
-- 📫 How to reach me: [hello@milansharma.me](mailto:hello@milansharma.me)
+- 📫 How to reach me: [hello@milansharma.me](mailto:hello@milansharma.tech)
 </p>
 
 ###
